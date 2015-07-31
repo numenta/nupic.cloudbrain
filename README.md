@@ -1,6 +1,6 @@
 # Description
 
-CloudBrain Analyzer and related experiments.
+CloudBrain HTM Classifier.
 
 # Installation
 
