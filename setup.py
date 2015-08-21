@@ -12,8 +12,8 @@ def read(fname):
 
 
 
-setup(name="cloudbrain",
+setup(name="htmclassifier",
       version="0.0",
-      description="CloudBrain and related experiments.",
+      description="CloudBrain HTM classifier.",
       packages=find_packages(),
       long_description=read("README.md"))
